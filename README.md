@@ -1,2 +1,2 @@
-# test-for-devs
-test for developers who want to join the team!
+* to install : npm i
+* to start the app : gulp
